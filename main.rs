@@ -24,7 +24,7 @@ fn main() {
 struct EventForKids {
     name: String,
     date: String,
-    number_of_particificants: i32,
+    number_of_particificants: u32,
     place: String
 }
 
